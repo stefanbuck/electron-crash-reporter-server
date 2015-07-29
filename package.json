@@ -1,0 +1,24 @@
+{
+  "name": "electron-crash-reporter-server",
+  "version": "0.1.0",
+  "description": "A very simple crash report server for electron",
+  "main": "server.js",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanbuck/electron-crash-reporter-server.git"
+  },
+  "author": "Stefan Buck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanbuck/electron-crash-reporter-server/issues"
+  },
+  "homepage": "https://github.com/stefanbuck/electron-crash-reporter-server#readme"
+}
